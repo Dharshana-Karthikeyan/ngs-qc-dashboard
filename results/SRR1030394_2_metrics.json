@@ -1,0 +1,21 @@
+{
+  "sample_name": "SRR1030394_2.fastq",
+  "total_reads": 50000,
+  "sequence_length": "32-251",
+  "gc_content_pct": 51.0,
+  "avg_quality_score": 30.1,
+  "duplication_rate_pct": 1.34,
+  "max_adapter_contamination_pct": 0.25,
+  "module_verdicts": {
+    "Basic Statistics": "pass",
+    "Per base sequence quality": "fail",
+    "Per sequence quality scores": "pass",
+    "Per base sequence content": "fail",
+    "Per sequence GC content": "warn",
+    "Per base N content": "pass",
+    "Sequence Length Distribution": "warn",
+    "Sequence Duplication Levels": "pass",
+    "Overrepresented sequences": "pass",
+    "Adapter Content": "pass"
+  }
+}

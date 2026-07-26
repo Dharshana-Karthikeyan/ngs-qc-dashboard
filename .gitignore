@@ -1,0 +1,8 @@
+venv/
+data/
+fastqc_output/
+*.fastq
+*.sra
+*.db
+__pycache__/
+*.pyc

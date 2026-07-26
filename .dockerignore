@@ -1,0 +1,7 @@
+venv/
+data/
+*.sra
+*.fastq
+__pycache__/
+*.pyc
+.git/
